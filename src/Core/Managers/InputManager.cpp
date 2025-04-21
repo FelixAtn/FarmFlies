@@ -25,6 +25,11 @@ void InputManager::UpdateMouse()
 	{
 		m_CurrentKey.set(static_cast<int>(KeyBind::Shoot));
 	}
+
+	if (sf::Mouse::isButtonPressed(sf::Mouse::Right))
+	{
+		m_CurrentKey.set(static_cast<int>(KeyBind::Right_click));
+	}
 }
 
 bool InputManager::IsKeyPress(KeyBind key)

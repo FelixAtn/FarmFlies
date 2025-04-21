@@ -20,7 +20,8 @@ enum SceneID
 	MAIN_MENU = 0,  ///< Main menu scene
 	LEVEL_ONE,      ///< First level of the game
 	LEVEL_TWO,      ///< Second level of the game
-	GAME_OVER       ///< Game over screen
+	GAME_OVER,      ///< Game over screen
+	CREDITS         ///< Credits screen   
 };
 
 /**

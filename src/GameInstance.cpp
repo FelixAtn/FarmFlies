@@ -5,10 +5,11 @@
 #include "Scenes/InGame/LevelTwo.h"
 #include "Scenes/MainMenu/MainMenu.h"
 #include "Scenes/GameOver/GameOver.h"
+#include "Scenes/Credits/Credits.h"
 #include "Core/Managers/InputManager.h"
 
 const sf::Color RED_COLOR = { 120,6,6 };
-constexpr const char* GAME_NAME = "FARM FLIES";
+constexpr const char* GAME_NAME = "MOO WARS";
 constexpr int DEFAULT_RESOLUTION_WIDTH = 1920;
 constexpr int DEFAULT_RESOLUTION_HEIGHT = 1080;
 
@@ -46,11 +47,13 @@ void GameInstance::InitGameStates()
 	std::shared_ptr<LevelOne> levelOne = std::make_shared<LevelOne>(m_StateManager, m_Window);
 	std::shared_ptr<LevelTwo> levelTwo = std::make_shared<LevelTwo>(m_StateManager, m_Window);
 	std::shared_ptr<GameOver> gameOverState = std::make_shared<GameOver>(m_StateManager, m_Window);
+	std::shared_ptr<Credits> creditState = std::make_shared<Credits>(m_StateManager, m_Window);
 
 	m_StateManager.Add(menuState, SceneID::MAIN_MENU);
 	m_StateManager.Add(levelOne, SceneID::LEVEL_ONE);
 	m_StateManager.Add(levelTwo, SceneID::LEVEL_TWO);
 	m_StateManager.Add(gameOverState, SceneID::GAME_OVER);
+	m_StateManager.Add(creditState, SceneID::CREDITS);
 	m_StateManager.Switch(SceneID::MAIN_MENU);
 }
 
@@ -91,7 +94,6 @@ void GameInstance::Run()
 void GameInstance::Update()
 {
 	m_StateManager.Update(m_deltaTime);
-
 }
 
 void GameInstance::Draw()

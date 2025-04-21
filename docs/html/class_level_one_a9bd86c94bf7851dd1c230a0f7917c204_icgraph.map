@@ -1,0 +1,5 @@
+<map id="LevelOne::UpdateSpaceship" name="LevelOne::UpdateSpaceship">
+<area shape="rect" id="Node000001" title="Updates the spaceship position and actions." alt="" coords="180,5,367,32"/>
+<area shape="rect" id="Node000002" href="$class_level_one.html#ac5f4953425e9d335e735f1cde198a1fb" title="Updates the level scene every frame." alt="" coords="5,5,132,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,21,132,21,132,16,164,16"/>
+</map>

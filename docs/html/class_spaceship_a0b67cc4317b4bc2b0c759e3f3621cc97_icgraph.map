@@ -1,0 +1,9 @@
+<map id="Spaceship::GetSprite" name="Spaceship::GetSprite">
+<area shape="rect" id="Node000001" title="Gets the spaceship&#39;s sprite." alt="" coords="656,13,802,40"/>
+<area shape="rect" id="Node000002" href="$namespace_gameplay_utility.html#a019f2cb298967e143d649e5137672a86" title="Checks if any cow projectiles hit the spaceship." alt="" coords="421,5,608,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="641,29,609,29,609,24,641,24"/>
+<area shape="rect" id="Node000003" href="$class_level_one.html#aa9b2531fc298d7d9a5cdf0bd96456921" title="Checks and resolves collisions between the spaceship and enemies." alt="" coords="180,5,373,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="406,29,373,29,373,24,406,24"/>
+<area shape="rect" id="Node000004" href="$class_level_one.html#ac5f4953425e9d335e735f1cde198a1fb" title="Updates the level scene every frame." alt="" coords="5,13,132,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="164,29,132,29,132,24,164,24"/>
+</map>

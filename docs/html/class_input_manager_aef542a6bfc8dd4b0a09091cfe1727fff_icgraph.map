@@ -1,0 +1,9 @@
+<map id="InputManager::Update" name="InputManager::Update">
+<area shape="rect" id="Node000001" title="Updates the input state each frame." alt="" coords="216,56,366,83"/>
+<area shape="rect" id="Node000002" href="$class_game_over.html#aa608f22a41a01dd72d3e646e84e6169b" title="Handles user input during the game over scene." alt="" coords="5,5,168,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,54,143,35,144,30,220,49"/>
+<area shape="rect" id="Node000003" href="$class_level_one.html#aa6d973bd7569d1b43a7f33de6b2a0074" title="Handles input events for the level scene." alt="" coords="9,56,164,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,72,164,72,164,67,200,67"/>
+<area shape="rect" id="Node000004" href="$class_menu_state.html#aecd8763b82b9bfb5a64a5d7572e9019a" title="Handles user input in the menu scene." alt="" coords="5,107,168,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,90,144,109,143,103,219,84"/>
+</map>

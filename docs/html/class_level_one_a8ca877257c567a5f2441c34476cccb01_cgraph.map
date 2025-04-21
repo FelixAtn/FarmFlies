@@ -1,0 +1,18 @@
+<map id="LevelOne::OnStart" name="LevelOne::OnStart">
+<area shape="rect" id="Node000001" title="Starts the level scene, preparing necessary resources." alt="" coords="5,61,135,88"/>
+<area shape="rect" id="Node000002" href="$class_level_one.html#a150f5898ace9c858941cfe46c1b36cb4" title="Resets the level for a new playthrough." alt="" coords="183,61,302,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,72,167,72,167,77,135,77"/>
+<area shape="rect" id="Node000003" href="$namespace_gameplay_utility.html#a24348bc2bb771397d9716c320eca7b25" title="Spawns a set number of enemies in a grid pattern." alt="" coords="569,5,784,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,58,350,47,454,33,553,23,554,29,454,38,350,52,296,63"/>
+<area shape="rect" id="Node000006" href="$class_level_one.html#a07f13cbce0fed886e7c800a52e32158c" title="Initializes the background for the level." alt="" coords="350,61,521,88"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="302,72,334,72,334,77,302,77"/>
+<area shape="rect" id="Node000008" href="$class_spaceship.html#a6b2ffa8e8b3c93c9132958d47436c6b8" title="Resets the spaceship&#39;s state to &quot;alive.&quot;." alt="" coords="373,112,498,139"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="297,86,368,105,367,110,296,91"/>
+<area shape="rect" id="Node000004" href="$class_log.html#a0602808efc4b6a11f68f0c9ee2df135e" title="Prints a plain text message with a given log level." alt="" coords="832,35,909,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="769,30,816,37,816,42,769,35"/>
+<area shape="rect" id="Node000005" href="$class_log.html#a758948f266c4aa6fabbf9b172a018d43" title="Returns the string representation of a log level." alt="" coords="957,35,1080,61"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="910,45,941,45,941,51,910,51"/>
+<area shape="rect" id="Node000007" href="$namespace_core_helper.html#a0609ff46cfcbe7d88492b38418267da5" title="Loads a texture and assigns it to a sprite." alt="" coords="582,56,771,99"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="522,73,566,73,566,79,522,78"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="771,60,816,53,817,59,772,66"/>
+</map>

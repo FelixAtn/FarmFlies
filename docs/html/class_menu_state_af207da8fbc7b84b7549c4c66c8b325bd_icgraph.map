@@ -1,0 +1,5 @@
+<map id="MenuState::UpdateButtons" name="MenuState::UpdateButtons">
+<area shape="rect" id="Node000001" title="Updates the state of the buttons (hover effects, click actions)." alt="" coords="188,5,367,32"/>
+<area shape="rect" id="Node000002" href="$class_menu_state.html#a88be08c6a75c03bfc5e8ae59e3173a46" title="Updates the menu scene every frame." alt="" coords="5,5,140,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,21,140,21,140,16,172,16"/>
+</map>

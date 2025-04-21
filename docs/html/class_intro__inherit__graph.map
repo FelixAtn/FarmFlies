@@ -1,0 +1,5 @@
+<map id="Intro" name="Intro">
+<area shape="rect" id="Node000001" title=" " alt="" coords="30,80,78,107"/>
+<area shape="rect" id="Node000002" href="$class_i_game_scene.html" title="Interface for all game scenes." alt="" coords="5,5,103,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,48,57,80,51,80,51,48"/>
+</map>

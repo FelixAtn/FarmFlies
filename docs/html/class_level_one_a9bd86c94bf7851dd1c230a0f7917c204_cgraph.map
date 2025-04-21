@@ -1,0 +1,19 @@
+<map id="LevelOne::UpdateSpaceship" name="LevelOne::UpdateSpaceship">
+<area shape="rect" id="Node000001" title="Updates the spaceship position and actions." alt="" coords="5,81,193,108"/>
+<area shape="rect" id="Node000002" href="$class_spaceship.html#a5a1432606489e09a118be526dca09773" title="Updates the spaceship&#39;s state and actions." alt="" coords="241,81,373,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,92,225,92,225,97,193,97"/>
+<area shape="rect" id="Node000003" href="$class_spaceship.html#a5281add3949841bea32a358ff41050ab" title="Calculates and updates the spaceship&#39;s position based on the cursor&#39;s position." alt="" coords="421,15,631,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="359,78,428,59,430,65,360,83"/>
+<area shape="rect" id="Node000004" href="$class_spaceship.html#a005ba375099423cbfe0cbb402965cd35" title="Handles the spaceship firing a projectile." alt="" coords="428,81,624,108"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="373,92,413,92,413,97,373,97"/>
+<area shape="rect" id="Node000008" href="$class_spaceship.html#af39e32b6ac8fe12f1b8a752597640e87" title="Updates the state of all projectiles fired by the spaceship." alt="" coords="430,136,623,163"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="364,106,456,129,454,134,363,111"/>
+<area shape="rect" id="Node000005" href="$class_input_manager.html#a681afd1f90d84a1e29883592891c95dd" title="Retrieves the singleton instance of the InputManager." alt="" coords="723,5,853,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="594,78,630,67,654,54,678,42,707,32,709,37,680,46,657,59,632,72,596,83"/>
+<area shape="rect" id="Node000006" href="$class_sound_manager.html#a7da0a1dcb16734c22b4252a3a5fa11c4" title="Plays the sound associated with the given name." alt="" coords="698,56,878,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="624,83,683,77,683,82,625,88"/>
+<area shape="rect" id="Node000007" href="$namespace_gameplay_utility.html#ac927e2960c3edb516e0c839afe16428c" title="Spawns a new projectile with the given properties." alt="" coords="680,107,896,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="625,101,665,105,664,111,624,107"/>
+<area shape="rect" id="Node000009" href="$namespace_gameplay_utility.html#a3558284331e73b20446925ae3c85e455" title="Removes inactive projectiles from the game." alt="" coords="679,157,897,200"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="624,158,665,162,664,167,623,163"/>
+</map>

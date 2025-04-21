@@ -1,0 +1,5 @@
+<map id="LevelTwo" name="LevelTwo">
+<area shape="rect" id="Node000001" title="Represents the second level of the game, including scene management and rendering." alt="" coords="16,80,92,107"/>
+<area shape="rect" id="Node000002" href="$class_i_game_scene.html" title="Interface for all game scenes." alt="" coords="5,5,103,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,48,57,80,51,80,51,48"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Enemy::OnMove" name="Enemy::OnMove">
+<area shape="rect" id="Node000001" title="Handles the enemy&#39;s movement behavior." alt="" coords="5,31,125,57"/>
+<area shape="rect" id="Node000002" href="$class_enemy.html#af4ff5144325866b3766530a3363dd549" title="Gets the horizontal movement for the enemy based on a sine wave pattern." alt="" coords="173,5,384,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,34,157,30,157,36,125,40"/>
+<area shape="rect" id="Node000003" href="$class_enemy.html#a75d09348e674b364625e010f2f0d945d" title="Gets the vertical movement for the enemy based on a speed and direction." alt="" coords="181,56,376,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,48,166,53,165,59,125,54"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="MenuState::MenuState" name="MenuState::MenuState">
+<area shape="rect" id="Node000001" title="Constructs the MenuState with a reference to the scene manager and the render window." alt="" coords="5,35,161,61"/>
+<area shape="rect" id="Node000002" href="$class_menu_state.html#a3c5a85349ab47790f9a589dcfa90655a" title="Initializes the buttons for the menu." alt="" coords="226,5,381,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,35,210,28,211,34,161,40"/>
+<area shape="rect" id="Node000005" href="$namespace_core_helper.html#a0609ff46cfcbe7d88492b38418267da5" title="Loads a texture and assigns it to a sprite." alt="" coords="209,56,398,99"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="161,56,193,60,193,65,161,61"/>
+<area shape="rect" id="Node000003" href="$class_log.html#a0602808efc4b6a11f68f0c9ee2df135e" title="Prints a plain text message with a given log level." alt="" coords="446,35,523,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,29,431,37,430,42,381,34"/>
+<area shape="rect" id="Node000004" href="$class_log.html#a758948f266c4aa6fabbf9b172a018d43" title="Returns the string representation of a log level." alt="" coords="571,35,695,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="524,45,556,45,556,51,524,51"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="398,59,430,54,431,59,399,65"/>
+</map>

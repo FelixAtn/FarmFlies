@@ -1,0 +1,17 @@
+<map id="InputManager::Get" name="InputManager::Get">
+<area shape="rect" id="Node000001" title="Retrieves the singleton instance of the InputManager." alt="" coords="839,81,968,108"/>
+<area shape="rect" id="Node000002" href="$class_game_over.html#aa608f22a41a01dd72d3e646e84e6169b" title="Handles user input during the game over scene." alt="" coords="612,5,774,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="861,77,790,47,753,35,755,30,792,41,863,72"/>
+<area shape="rect" id="Node000003" href="$class_level_one.html#aa6d973bd7569d1b43a7f33de6b2a0074" title="Handles input events for the level scene." alt="" coords="616,56,770,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="823,88,770,81,771,76,824,82"/>
+<area shape="rect" id="Node000004" href="$class_menu_state.html#aecd8763b82b9bfb5a64a5d7572e9019a" title="Handles user input in the menu scene." alt="" coords="612,107,774,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="824,107,775,113,774,108,823,102"/>
+<area shape="rect" id="Node000005" href="$class_spaceship.html#a005ba375099423cbfe0cbb402965cd35" title="Handles the spaceship firing a projectile." alt="" coords="595,157,791,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="863,118,792,148,755,159,753,154,790,143,861,113"/>
+<area shape="rect" id="Node000006" href="$class_spaceship.html#a5a1432606489e09a118be526dca09773" title="Updates the spaceship&#39;s state and actions." alt="" coords="415,157,547,184"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="580,173,548,173,548,168,580,168"/>
+<area shape="rect" id="Node000007" href="$class_level_one.html#a9bd86c94bf7851dd1c230a0f7917c204" title="Updates the spaceship position and actions." alt="" coords="180,157,367,184"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="399,173,368,173,368,168,399,168"/>
+<area shape="rect" id="Node000008" href="$class_level_one.html#ac5f4953425e9d335e735f1cde198a1fb" title="Updates the level scene every frame." alt="" coords="5,157,132,184"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="164,173,132,173,132,168,164,168"/>
+</map>

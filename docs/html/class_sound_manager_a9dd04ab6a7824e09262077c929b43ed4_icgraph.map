@@ -1,0 +1,7 @@
+<map id="SoundManager::LoadSound" name="SoundManager::LoadSound">
+<area shape="rect" id="Node000001" title="Loads a sound file into memory and stores it under a name." alt="" coords="205,31,386,57"/>
+<area shape="rect" id="Node000002" href="$class_enemy.html#a57d7a918ac6ea909d2e50aa3951bab65" title="Constructor that initializes an enemy with specific properties." alt="" coords="25,5,137,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,34,137,28,138,23,190,29"/>
+<area shape="rect" id="Node000003" href="$class_spaceship.html#a13f1c8eb5ded2fb1687203322b22bca9" title="Default constructor for the Spaceship class." alt="" coords="5,56,157,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,59,157,63,157,58,189,54"/>
+</map>

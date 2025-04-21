@@ -1,0 +1,11 @@
+<map id="LevelOne::HandleInput" name="LevelOne::HandleInput">
+<area shape="rect" id="Node000001" title="Handles input events for the level scene." alt="" coords="5,31,160,57"/>
+<area shape="rect" id="Node000002" href="$class_input_manager.html#a681afd1f90d84a1e29883592891c95dd" title="Retrieves the singleton instance of the InputManager." alt="" coords="218,5,348,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,32,203,26,203,31,161,37"/>
+<area shape="rect" id="Node000003" href="$class_input_manager.html#aef542a6bfc8dd4b0a09091cfe1727fff" title="Updates the input state each frame." alt="" coords="208,56,358,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,51,193,55,192,61,160,56"/>
+<area shape="rect" id="Node000004" href="$class_input_manager.html#aad8d6154eb7442d0f48db609a9a7d81b" title="Polls SFML keyboard state and sets flags accordingly." alt="" coords="406,31,611,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="358,58,390,55,391,60,359,64"/>
+<area shape="rect" id="Node000005" href="$class_input_manager.html#aa85d5d75cfd3f4b9595c99c388a1d8aa" title="Polls SFML mouse button state and sets flags accordingly." alt="" coords="414,81,603,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="359,75,399,80,398,85,358,80"/>
+</map>

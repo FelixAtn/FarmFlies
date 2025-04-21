@@ -5,7 +5,7 @@
 void InputManager::Update(float deltaTime)
 {
 	m_PreviousKey = m_CurrentKey;
-	m_CurrentKey.reset();
+	m_CurrentKey.reset(); // Clear the current key states before polling
 	UpdateKeyboard();
 	UpdateMouse();
 }

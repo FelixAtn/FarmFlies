@@ -1,0 +1,5 @@
+<map id="CoreHelper::LoadMusic" name="CoreHelper::LoadMusic">
+<area shape="rect" id="Node000001" title="Loads background music from a file." alt="" coords="193,5,351,32"/>
+<area shape="rect" id="Node000002" href="$class_level_one.html#aab7fa7fff62beadc614eefb210ae0d74" title="Constructs the LevelOne scene with a reference to the scene manager and window." alt="" coords="5,5,145,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,21,145,21,145,16,177,16"/>
+</map>

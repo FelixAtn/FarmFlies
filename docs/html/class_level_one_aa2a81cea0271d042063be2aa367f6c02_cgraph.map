@@ -1,0 +1,9 @@
+<map id="LevelOne::CheckLives" name="LevelOne::CheckLives">
+<area shape="rect" id="Node000001" title="Checks the player&#39;s lives and updates the game state if necessary." alt="" coords="5,5,159,32"/>
+<area shape="rect" id="Node000002" href="$class_scene_manager.html#a923a348879950dfdeba731f5fbcaf731" title="Switches the currently active scene." alt="" coords="207,5,363,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,16,191,16,191,21,159,21"/>
+<area shape="rect" id="Node000003" href="$class_log.html#a0602808efc4b6a11f68f0c9ee2df135e" title="Prints a plain text message with a given log level." alt="" coords="411,5,488,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="363,16,395,16,395,21,363,21"/>
+<area shape="rect" id="Node000004" href="$class_log.html#a758948f266c4aa6fabbf9b172a018d43" title="Returns the string representation of a log level." alt="" coords="536,5,660,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="489,16,521,16,521,21,489,21"/>
+</map>

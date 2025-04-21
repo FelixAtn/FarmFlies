@@ -1,0 +1,48 @@
+<map id="LevelOne::Update" name="LevelOne::Update">
+<area shape="rect" id="Node000001" title="Updates the level scene every frame." alt="" coords="5,207,132,233"/>
+<area shape="rect" id="Node000002" href="$class_level_one.html#aa9b2531fc298d7d9a5cdf0bd96456921" title="Checks and resolves collisions between the spaceship and enemies." alt="" coords="181,64,374,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,204,120,162,148,138,178,116,187,111,190,116,181,121,151,142,124,166,83,208"/>
+<area shape="rect" id="Node000008" href="$class_level_one.html#aa2a81cea0271d042063be2aa367f6c02" title="Checks the player&#39;s lives and updates the game state if necessary." alt="" coords="201,131,354,157"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="95,204,179,167,201,160,203,165,181,172,97,209"/>
+<area shape="rect" id="Node000012" href="$class_level_one.html#a9dec36f6529ca8c360d058981ccbd6d2" title="Updates the background, including parallax effects if applicable." alt="" coords="180,181,375,208"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="132,210,164,206,165,211,133,215"/>
+<area shape="rect" id="Node000013" href="$class_level_one.html#a4a9202c914f2e542524ae97282f783c0" title="Updates the enemies&#39; behaviors and positions." alt="" coords="189,232,366,259"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="133,225,174,230,173,235,132,230"/>
+<area shape="rect" id="Node000014" href="$class_level_one.html#a49050c25247260db25be9fdee638ab41" title="Updates the level&#45;related UI text, such as level name and lives count." alt="" coords="186,283,368,309"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="97,231,181,268,203,275,201,280,179,273,95,236"/>
+<area shape="rect" id="Node000015" href="$class_level_one.html#a9bd86c94bf7851dd1c230a0f7917c204" title="Updates the spaceship position and actions." alt="" coords="184,333,371,360"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="83,232,123,275,151,299,181,319,193,325,191,330,178,324,147,303,119,279,79,236"/>
+<area shape="rect" id="Node000003" href="$namespace_gameplay_utility.html#af2f86a3f5aad8dd1baf691129c62854b" title="Checks for collisions between projectiles and enemies." alt="" coords="423,5,624,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,61,416,50,417,55,370,66"/>
+<area shape="rect" id="Node000004" href="$class_spaceship.html#a0d3e300dc2814aea1f7c0f8127466087" title="Gets the list of projectiles currently fired by the spaceship." alt="" coords="438,72,610,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="375,83,422,83,422,88,375,88"/>
+<area shape="rect" id="Node000005" href="$namespace_gameplay_utility.html#a019f2cb298967e143d649e5137672a86" title="Checks if any cow projectiles hit the spaceship." alt="" coords="430,123,617,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="370,105,417,116,416,121,369,110"/>
+<area shape="rect" id="Node000006" href="$class_spaceship.html#a0b67cc4317b4bc2b0c759e3f3621cc97" title="Gets the spaceship&#39;s sprite." alt="" coords="705,91,850,117"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="617,127,689,115,690,120,618,132"/>
+<area shape="rect" id="Node000007" href="$class_spaceship.html#a966d043a3d9502ddc700dc67c562de4d" title="Handles the spaceship being hit by an enemy or obstacle." alt="" coords="715,141,840,168"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="618,145,700,149,700,154,618,151"/>
+<area shape="rect" id="Node000009" href="$class_scene_manager.html#a923a348879950dfdeba731f5fbcaf731" title="Switches the currently active scene." alt="" coords="446,203,602,229"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="335,155,376,167,467,195,465,200,374,172,333,161"/>
+<area shape="rect" id="Node000010" href="$class_log.html#a0602808efc4b6a11f68f0c9ee2df135e" title="Prints a plain text message with a given log level." alt="" coords="739,203,816,229"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="602,213,723,213,723,219,602,219"/>
+<area shape="rect" id="Node000011" href="$class_log.html#a758948f266c4aa6fabbf9b172a018d43" title="Returns the string representation of a log level." alt="" coords="978,203,1101,229"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="817,213,962,213,962,219,817,219"/>
+<area shape="poly" id="edge14_Node000014_Node000009" title=" " alt="" coords="335,279,374,268,473,233,475,238,376,273,336,285"/>
+<area shape="rect" id="Node000016" href="$class_spaceship.html#a5a1432606489e09a118be526dca09773" title="Updates the spaceship&#39;s state and actions." alt="" coords="458,333,590,360"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="371,344,442,344,442,349,371,349"/>
+<area shape="rect" id="Node000017" href="$class_spaceship.html#a5281add3949841bea32a358ff41050ab" title="Calculates and updates the spaceship&#39;s position based on the cursor&#39;s position." alt="" coords="672,267,883,309"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="584,330,667,311,668,316,585,335"/>
+<area shape="rect" id="Node000018" href="$class_spaceship.html#a005ba375099423cbfe0cbb402965cd35" title="Handles the spaceship firing a projectile." alt="" coords="680,333,875,360"/>
+<area shape="poly" id="edge18_Node000016_Node000018" title=" " alt="" coords="590,344,664,344,664,349,590,349"/>
+<area shape="rect" id="Node000022" href="$class_spaceship.html#af39e32b6ac8fe12f1b8a752597640e87" title="Updates the state of all projectiles fired by the spaceship." alt="" coords="681,399,874,425"/>
+<area shape="poly" id="edge22_Node000016_Node000022" title=" " alt="" coords="579,358,709,392,707,397,578,363"/>
+<area shape="rect" id="Node000019" href="$class_input_manager.html#a681afd1f90d84a1e29883592891c95dd" title="Retrieves the singleton instance of the InputManager." alt="" coords="975,268,1104,295"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="838,330,882,319,930,304,960,296,962,301,931,309,883,324,839,335"/>
+<area shape="rect" id="Node000020" href="$class_sound_manager.html#a7da0a1dcb16734c22b4252a3a5fa11c4" title="Plays the sound associated with the given name." alt="" coords="950,319,1129,345"/>
+<area shape="poly" id="edge20_Node000018_Node000020" title=" " alt="" coords="876,339,934,335,934,341,876,344"/>
+<area shape="rect" id="Node000021" href="$namespace_gameplay_utility.html#ac927e2960c3edb516e0c839afe16428c" title="Spawns a new projectile with the given properties." alt="" coords="931,369,1148,396"/>
+<area shape="poly" id="edge21_Node000018_Node000021" title=" " alt="" coords="876,357,923,364,922,369,875,363"/>
+<area shape="rect" id="Node000023" href="$namespace_gameplay_utility.html#a3558284331e73b20446925ae3c85e455" title="Removes inactive projectiles from the game." alt="" coords="931,420,1148,463"/>
+<area shape="poly" id="edge23_Node000022_Node000023" title=" " alt="" coords="875,420,916,425,915,430,874,425"/>
+</map>

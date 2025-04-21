@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,56,90,83"/>
+<area shape="rect" id="Node000001" href="$class_vector2.html" title=" " alt="" coords="143,5,246,32"/>
+<area shape="poly" id="edge7_Node000000_Node000001" title=" " alt="" coords="102,48,153,30,155,35,104,53"/>
+<area shape="rect" id="Node000002" href="$class_vector2.html" title=" " alt="" coords="138,56,252,83"/>
+<area shape="poly" id="edge8_Node000000_Node000002" title=" " alt="" coords="105,67,137,67,137,72,105,72"/>
+<area shape="rect" id="Node000003" href="$class_vector2.html" title="A basic 2D vector class for game development." alt="" coords="147,107,243,133"/>
+<area shape="poly" id="edge9_Node000000_Node000003" title=" " alt="" coords="104,86,155,104,153,109,102,91"/>
+</map>

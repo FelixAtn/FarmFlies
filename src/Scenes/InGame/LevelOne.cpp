@@ -149,12 +149,10 @@ void LevelOne::UpdateBackground(float deltaTime)
 	}
 }
 
-
 void LevelOne::UpdateSpaceship(float deltaTime)
 {
 	m_Spaceship.Update(m_Window, m_Enemies, deltaTime);
 }
-
 
 void LevelOne::UpdateEnemies(float deltaTime)
 {
@@ -167,18 +165,18 @@ void LevelOne::UpdateEnemies(float deltaTime)
 	}
 }
 
-
 void LevelOne::UpdateLevelText()
 {
 	// Update level and lives texts based on current game state
 	m_LevelText.setString("Level: " + std::to_string(LEVEL));
 	m_LivesText.setString("Lives: " + std::to_string(m_Lives));
+	
+	// If there are no more enemies, SWITCH TO LEVEL 2 OR CREDITS
 	if (m_Enemies.empty())
 	{
-		m_SceneManager.Switch(SceneID::LEVEL_TWO);
+		m_SceneManager.Switch(SceneID::CREDITS);
 	}
 }
-
 
 void LevelOne::DrawBackgrounds()
 {

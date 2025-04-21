@@ -1,0 +1,83 @@
+<map id="include/MyLibrary/Entities/Spaceship.cpp" name="include/MyLibrary/Entities/Spaceship.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="3523,5,3695,48"/>
+<area shape="rect" id="Node000002" href="$stdafx_8h.html" title=" " alt="" coords="1410,96,1478,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="3523,34,1493,109,1493,104,3523,29"/>
+<area shape="rect" id="Node000034" href="$_spaceship_8h.html" title="Contains the Spaceship class and its related methods." alt="" coords="3222,96,3316,123"/>
+<area shape="poly" id="edge33_Node000001_Node000034" title=" " alt="" coords="3523,51,3331,96,3330,91,3522,46"/>
+<area shape="rect" id="Node000035" href="$_projectile_8h.html" title="Contains the Projectile class and its related methods." alt="" coords="3579,171,3666,197"/>
+<area shape="poly" id="edge41_Node000001_Node000035" title=" " alt="" coords="3523,37,3460,47,3404,64,3385,75,3373,88,3371,103,3380,121,3446,139,3565,167,3564,172,3445,144,3377,125,3366,104,3369,86,3382,71,3402,59,3459,42,3523,32"/>
+<area shape="rect" id="Node000036" href="$_input_manager_8h.html" title="Contains the KeyBind enum and InputManager singleton class." alt="" coords="3391,96,3595,123"/>
+<area shape="poly" id="edge35_Node000001_Node000036" title=" " alt="" coords="3581,51,3525,89,3522,85,3578,46"/>
+<area shape="rect" id="Node000037" href="$_sound_manager_8h.html" title="Declares the SoundManager class used to load and manage sound effects." alt="" coords="3619,96,3831,123"/>
+<area shape="poly" id="edge36_Node000001_Node000037" title=" " alt="" coords="3640,46,3696,85,3693,89,3637,51"/>
+<area shape="rect" id="Node000038" href="$_enemy_8h.html" title="Contains the Enemy class and its related methods." alt="" coords="3856,96,3928,123"/>
+<area shape="poly" id="edge37_Node000001_Node000038" title=" " alt="" coords="3683,46,3841,91,3840,96,3681,51"/>
+<area shape="rect" id="Node000039" href="$_strings_8h.html" title=" " alt="" coords="3952,96,4093,123"/>
+<area shape="poly" id="edge39_Node000001_Node000039" title=" " alt="" coords="3696,42,3943,90,3942,95,3695,47"/>
+<area shape="rect" id="Node000040" href="$_gameplay_utility_8h.html" title="Utility functions for gameplay mechanics, including enemy spawning, collision detection,..." alt="" coords="4117,96,4312,123"/>
+<area shape="poly" id="edge40_Node000001_Node000040" title=" " alt="" coords="3695,37,4104,91,4103,96,3695,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,171,77,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1409,114,793,130,396,148,225,160,92,173,92,168,225,154,396,143,793,125,1409,109"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="101,171,154,197"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1409,114,1180,118,827,128,455,146,295,158,170,173,170,168,295,153,455,140,827,123,1180,113,1409,108"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="179,171,236,197"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="1409,114,864,130,518,148,369,160,252,174,251,168,369,154,518,143,864,125,1409,109"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="260,171,307,197"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="1409,114,1206,119,897,129,573,147,433,159,323,174,322,168,432,154,572,142,897,124,1206,113,1409,109"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="331,171,442,197"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="1409,114,1028,128,749,145,457,173,457,168,748,140,1028,122,1409,109"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="465,171,569,197"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1409,114,1076,129,835,147,585,173,584,168,835,141,1076,124,1409,109"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="592,171,660,197"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="1409,114,1290,117,1111,127,898,144,676,173,676,168,897,139,1111,121,1290,112,1409,109"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="685,171,760,197"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="1409,115,1150,130,966,147,775,173,774,168,966,142,1149,125,1409,109"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="784,171,834,197"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="1409,114,1314,118,1178,128,1017,145,850,173,849,168,1016,140,1177,122,1314,113,1409,109"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="858,171,915,197"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="1410,115,1210,132,1073,149,930,173,930,168,1072,143,1209,127,1409,110"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="939,171,996,197"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="1409,116,1242,135,1129,151,1012,173,1011,168,1128,146,1241,129,1409,111"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="1020,171,1086,197"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="1410,118,1278,139,1101,173,1100,168,1277,134,1409,113"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="1110,171,1174,197"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="1410,121,1190,173,1189,167,1408,116"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="1199,171,1267,197"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="1410,125,1282,169,1281,164,1408,120"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="1292,171,1345,197"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="1423,126,1354,165,1352,160,1421,121"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="1370,171,1430,197"/>
+<area shape="poly" id="edge17_Node000002_Node000018" title=" " alt="" coords="1438,125,1417,159,1413,156,1434,122"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="1454,171,1518,197"/>
+<area shape="poly" id="edge18_Node000002_Node000019" title=" " alt="" coords="1453,122,1474,156,1469,159,1449,125"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="1542,171,1620,197"/>
+<area shape="poly" id="edge19_Node000002_Node000020" title=" " alt="" coords="1469,121,1545,161,1542,165,1466,126"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="1644,171,1686,197"/>
+<area shape="poly" id="edge20_Node000002_Node000021" title=" " alt="" coords="1479,119,1630,167,1628,172,1478,124"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="1710,171,1847,197"/>
+<area shape="poly" id="edge21_Node000002_Node000022" title=" " alt="" coords="1479,115,1706,164,1704,169,1478,121"/>
+<area shape="rect" id="Node000023" title=" " alt="" coords="1871,171,2003,197"/>
+<area shape="poly" id="edge22_Node000002_Node000023" title=" " alt="" coords="1478,113,1856,168,1856,173,1478,118"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="2027,171,2146,197"/>
+<area shape="poly" id="edge23_Node000002_Node000024" title=" " alt="" coords="1479,111,1699,132,2012,168,2011,173,1698,137,1478,116"/>
+<area shape="rect" id="Node000025" title=" " alt="" coords="2169,171,2300,197"/>
+<area shape="poly" id="edge24_Node000002_Node000025" title=" " alt="" coords="1478,110,1754,129,1949,146,2154,168,2153,173,1949,152,1753,135,1478,115"/>
+<area shape="rect" id="Node000026" href="$_log_8h.html" title="Provides a lightweight static logging utility for console output." alt="" coords="2323,171,2447,197"/>
+<area shape="poly" id="edge25_Node000002_Node000026" title=" " alt="" coords="1478,109,1812,126,2055,143,2308,168,2308,173,2055,149,1812,131,1478,115"/>
+<area shape="rect" id="Node000027" href="$_vector2_8h.html" title="A simple 2D vector class based on SFML&#39;s sf::Vector2." alt="" coords="2470,171,2617,197"/>
+<area shape="poly" id="edge26_Node000002_Node000027" title=" " alt="" coords="1478,109,1868,126,2155,143,2455,168,2455,173,2155,148,1868,131,1478,114"/>
+<area shape="rect" id="Node000028" href="$_timer_8h.html" title="A simple timer utility class." alt="" coords="2641,171,2777,197"/>
+<area shape="poly" id="edge27_Node000002_Node000028" title=" " alt="" coords="1478,109,1932,122,2271,140,2626,168,2626,173,2271,145,1931,127,1478,114"/>
+<area shape="rect" id="Node000029" href="$_random_gen_8h.html" title=" " alt="" coords="2801,171,2977,197"/>
+<area shape="poly" id="edge28_Node000002_Node000029" title=" " alt="" coords="1478,109,1990,123,2379,141,2786,168,2785,173,2379,146,1990,128,1478,114"/>
+<area shape="rect" id="Node000030" href="$_scene_manager_8h.html" title="Contains the SceneID enum, IGameScene interface, and SceneManager class." alt="" coords="3000,171,3212,197"/>
+<area shape="poly" id="edge29_Node000002_Node000030" title=" " alt="" coords="1478,109,2064,123,2514,141,2985,168,2985,173,2514,146,2064,129,1478,114"/>
+<area shape="rect" id="Node000031" href="$_cursor_8h.html" title="Singleton class that manages the in&#45;game cursor." alt="" coords="3236,171,3355,197"/>
+<area shape="poly" id="edge30_Node000002_Node000031" title=" " alt="" coords="1478,109,2286,126,2817,144,3045,155,3221,168,3220,173,3044,160,2817,149,2286,131,1478,114"/>
+<area shape="rect" id="Node000032" title=" " alt="" coords="3379,171,3463,197"/>
+<area shape="poly" id="edge31_Node000002_Node000032" title=" " alt="" coords="1479,108,1810,111,2351,120,2927,138,3174,151,3364,168,3364,173,3174,157,2927,143,2350,125,1810,116,1478,114"/>
+<area shape="rect" id="Node000033" title=" " alt="" coords="3487,171,3555,197"/>
+<area shape="poly" id="edge32_Node000002_Node000033" title=" " alt="" coords="1478,108,1826,109,2398,116,2710,124,3008,134,3270,149,3472,168,3471,173,3270,154,3008,140,2710,129,2398,122,1826,115,1478,113"/>
+<area shape="poly" id="edge34_Node000034_Node000035" title=" " alt="" coords="3317,117,3565,167,3564,173,3316,122"/>
+<area shape="poly" id="edge38_Node000038_Node000035" title=" " alt="" coords="3856,123,3681,170,3680,164,3855,118"/>
+</map>

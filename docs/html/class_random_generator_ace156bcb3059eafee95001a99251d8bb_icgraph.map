@@ -1,0 +1,5 @@
+<map id="RandomGenerator::Seed" name="RandomGenerator::Seed">
+<area shape="rect" id="Node000001" title="Seeds the random number generator with a given value." alt="" coords="295,5,460,32"/>
+<area shape="rect" id="Node000002" href="$class_random_generator.html#ad2b3256e634878160c7d8b6e865341b2" title="Default constructor that automatically seeds the random generator." alt="" coords="5,5,247,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="279,21,247,21,247,16,279,16"/>
+</map>

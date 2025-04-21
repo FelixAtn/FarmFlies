@@ -1,0 +1,5 @@
+<map id="Timer::HasTimePassed" name="Timer::HasTimePassed">
+<area shape="rect" id="Node000001" title="Checks if the specified interval has passed based on the delta time." alt="" coords="188,5,347,32"/>
+<area shape="rect" id="Node000002" href="$class_game_over.html#a574908eb0d8bd368a45c986b2e853e14" title="Updates the game over scene every frame." alt="" coords="5,5,140,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,21,140,21,140,16,172,16"/>
+</map>

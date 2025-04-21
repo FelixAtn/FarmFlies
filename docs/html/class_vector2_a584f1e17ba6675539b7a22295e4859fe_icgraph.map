@@ -1,0 +1,5 @@
+<map id="Vector2::Length" name="Vector2::Length">
+<area shape="rect" id="Node000001" title="Get the length of the vector." alt="" coords="186,5,298,32"/>
+<area shape="rect" id="Node000002" href="$class_vector2.html#a68e97aac95f6ab5fffd3c9691b649fd4" title="Normalize the vector to a length of 1." alt="" coords="5,5,138,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,21,138,21,138,16,170,16"/>
+</map>

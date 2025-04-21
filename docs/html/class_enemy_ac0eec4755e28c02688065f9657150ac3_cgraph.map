@@ -1,0 +1,5 @@
+<map id="Enemy::~Enemy" name="Enemy::~Enemy">
+<area shape="rect" id="Node000001" title="Destructor that cleans up resources used by the enemy." alt="" coords="5,5,125,32"/>
+<area shape="rect" id="Node000002" href="$class_sound_manager.html#a7da0a1dcb16734c22b4252a3a5fa11c4" title="Plays the sound associated with the given name." alt="" coords="173,5,352,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,16,157,16,157,21,125,21"/>
+</map>

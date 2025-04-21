@@ -1,0 +1,12 @@
+<map id="Cursor::Update" name="Cursor::Update">
+<area shape="rect" id="Node000001" title="Update the cursor&#39;s internal state." alt="" coords="723,5,833,32"/>
+<area shape="rect" id="Node000002" href="$class_game_instance.html#aad33789f20dcd91cef933f273903aa6f" title="Starts the game loop and runs the game." alt="" coords="126,5,264,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="707,21,265,21,265,16,707,16"/>
+<area shape="rect" id="Node000004" href="$class_scene_manager.html#adbede64d5706507e65f0e9dd0eaddd6b" title="Updates the currently active scene." alt="" coords="516,31,675,57"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="707,31,675,36,675,30,707,26"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html#ac11a9f698adda87a72e4d287beaabc5f" title="Entry point for the game in release mode." alt="" coords="5,5,78,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,21,78,21,78,16,110,16"/>
+<area shape="rect" id="Node000005" href="$class_game_instance.html#a422f52b6d9640ba39cf47f80fff28f76" title="Updates the game logic." alt="" coords="312,31,468,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="500,47,469,47,469,41,500,41"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="296,35,264,30,264,25,297,29"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="include/MyLibrary/Core/Utility/Timer.h" name="include/MyLibrary/Core/Utility/Timer.h">
+<area shape="rect" id="Node000001" title="A simple timer utility class." alt="" coords="992,5,1147,48"/>
+<area shape="rect" id="Node000002" href="$_timer_8cpp.html" title=" " alt="" coords="5,171,161,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="977,44,624,96,400,133,174,173,162,176,161,171,173,168,399,128,623,91,976,38"/>
+<area shape="rect" id="Node000003" href="$stdafx_8h.html" title=" " alt="" coords="1969,96,2144,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1163,33,1969,98,1968,104,1163,38"/>
+<area shape="poly" id="edge10_Node000003_Node000002" title=" " alt="" coords="1954,114,1581,118,1067,128,551,146,336,158,174,173,161,175,161,170,173,168,336,153,551,141,1067,123,1581,113,1953,109"/>
+<area shape="rect" id="Node000004" href="$_input_manager_8cpp.html" title=" " alt="" coords="185,171,376,213"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1954,115,1168,134,718,151,531,161,389,173,376,175,375,170,388,168,530,156,718,145,1168,128,1954,110"/>
+<area shape="rect" id="Node000005" href="$_scene_manager_8cpp.html" title=" " alt="" coords="400,171,598,213"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1954,113,1714,115,1382,122,999,141,803,155,611,173,599,175,598,170,611,168,803,150,999,135,1381,117,1714,109,1954,108"/>
+<area shape="rect" id="Node000006" href="$_sound_manager_8cpp.html" title=" " alt="" coords="622,171,821,213"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="1954,114,1748,117,1469,127,1153,144,833,173,821,175,821,169,832,168,1152,139,1469,121,1747,112,1953,109"/>
+<area shape="rect" id="Node000007" href="$_gameplay_utility_8cpp.html" title=" " alt="" coords="845,171,1025,213"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="1954,115,1780,120,1552,130,1296,147,1038,173,1026,175,1025,170,1037,168,1295,142,1552,124,1780,114,1954,110"/>
+<area shape="rect" id="Node000008" href="$_helper_8cpp.html" title=" " alt="" coords="1049,171,1205,213"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="1954,116,1625,132,1422,149,1218,173,1205,175,1205,170,1217,168,1421,144,1625,127,1954,111"/>
+<area shape="rect" id="Node000009" href="$_log_8cpp.html" title=" " alt="" coords="1229,171,1385,213"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="1954,119,1700,137,1548,153,1397,173,1386,175,1385,170,1396,168,1548,148,1700,132,1954,113"/>
+<area shape="rect" id="Node000010" href="$_random_gen_8cpp.html" title=" " alt="" coords="1409,171,1570,213"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="1954,124,1780,144,1583,173,1571,176,1570,170,1583,168,1780,139,1953,118"/>
+<area shape="rect" id="Node000011" href="$_vector2_8cpp.html" title=" " alt="" coords="1595,171,1750,213"/>
+<area shape="poly" id="edge11_Node000003_Node000011" title=" " alt="" coords="1979,129,1764,173,1751,176,1750,171,1762,168,1978,124"/>
+<area shape="rect" id="Node000012" href="$_cursor_8cpp.html" title=" " alt="" coords="1775,171,1946,213"/>
+<area shape="poly" id="edge12_Node000003_Node000012" title=" " alt="" coords="2013,131,1912,172,1910,168,2011,126"/>
+<area shape="rect" id="Node000013" href="$_enemy_8cpp.html" title=" " alt="" coords="1971,171,2142,213"/>
+<area shape="poly" id="edge13_Node000003_Node000013" title=" " alt="" coords="2059,138,2059,170,2054,170,2054,138"/>
+<area shape="rect" id="Node000014" href="$_projectile_8cpp.html" title=" " alt="" coords="2167,171,2338,213"/>
+<area shape="poly" id="edge14_Node000003_Node000014" title=" " alt="" coords="2102,126,2203,168,2201,172,2100,131"/>
+<area shape="rect" id="Node000015" href="$_spaceship_8cpp.html" title=" " alt="" coords="2363,171,2534,213"/>
+<area shape="poly" id="edge15_Node000003_Node000015" title=" " alt="" coords="2133,124,2363,170,2362,176,2132,129"/>
+<area shape="rect" id="Node000016" href="$_game_instance_8cpp.html" title=" " alt="" coords="2558,179,2795,205"/>
+<area shape="poly" id="edge16_Node000003_Node000016" title=" " alt="" coords="2159,120,2546,168,2597,175,2596,181,2545,173,2158,125"/>
+<area shape="rect" id="Node000017" href="$_credits_8cpp.html" title=" " alt="" coords="2819,171,2990,213"/>
+<area shape="poly" id="edge17_Node000003_Node000017" title=" " alt="" coords="2159,112,2451,130,2629,146,2807,168,2819,170,2818,175,2807,173,2629,152,2451,136,2159,118"/>
+<area shape="rect" id="Node000018" href="$_game_over_8cpp.html" title=" " alt="" coords="3014,171,3194,213"/>
+<area shape="poly" id="edge18_Node000003_Node000018" title=" " alt="" coords="2159,110,2532,126,2766,143,3002,168,3014,170,3013,175,3001,173,2766,148,2531,131,2159,116"/>
+<area shape="rect" id="Node000019" href="$_level_one_8cpp.html" title=" " alt="" coords="3219,171,3390,213"/>
+<area shape="poly" id="edge19_Node000003_Node000019" title=" " alt="" coords="2159,108,2354,111,2615,120,2910,138,3207,168,3219,170,3218,175,3207,173,2909,143,2615,126,2354,117,2159,114"/>
+<area shape="rect" id="Node000020" href="$_level_two_8cpp.html" title=" " alt="" coords="3415,171,3586,213"/>
+<area shape="poly" id="edge20_Node000003_Node000020" title=" " alt="" coords="2159,107,2384,108,2692,116,3045,135,3225,149,3402,168,3415,170,3414,175,3401,173,3225,154,3045,140,2692,121,2384,114,2159,112"/>
+<area shape="rect" id="Node000021" href="$_intro_8cpp.html" title=" " alt="" coords="3611,171,3782,213"/>
+<area shape="poly" id="edge21_Node000003_Node000021" title=" " alt="" coords="2159,110,2885,128,3297,146,3468,156,3598,168,3611,170,3610,175,3597,173,3468,161,3297,151,2885,134,2159,115"/>
+<area shape="rect" id="Node000022" href="$_main_menu_8cpp.html" title=" " alt="" coords="3806,171,3981,213"/>
+<area shape="poly" id="edge22_Node000003_Node000022" title=" " alt="" coords="2159,109,2978,126,3449,144,3645,155,3794,168,3806,170,3806,175,3793,173,3645,160,3449,149,2978,132,2159,115"/>
+<area shape="rect" id="Node000023" href="$main_8cpp.html" title=" " alt="" coords="4005,179,4185,205"/>
+<area shape="poly" id="edge23_Node000003_Node000023" title=" " alt="" coords="2159,109,2541,114,3071,125,3603,142,3825,154,3993,168,4039,175,4038,181,3992,173,3824,159,3603,148,3071,130,2541,119,2159,114"/>
+<area shape="rect" id="Node000024" href="$stdafx_8cpp.html" title=" " alt="" coords="4209,179,4397,205"/>
+<area shape="poly" id="edge24_Node000003_Node000024" title=" " alt="" coords="2159,109,2577,113,3166,123,3761,141,4010,153,4198,168,4246,175,4245,181,4197,173,4009,158,3761,146,3166,128,2577,118,2159,114"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="LevelOne::InitBackground" name="LevelOne::InitBackground">
+<area shape="rect" id="Node000001" title="Initializes the background for the level." alt="" coords="370,31,541,57"/>
+<area shape="rect" id="Node000002" href="$class_level_one.html#aab7fa7fff62beadc614eefb210ae0d74" title="Constructs the LevelOne scene with a reference to the scene manager and window." alt="" coords="183,5,322,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="355,34,322,30,323,25,355,29"/>
+<area shape="rect" id="Node000003" href="$class_level_one.html#a150f5898ace9c858941cfe46c1b36cb4" title="Resets the level for a new playthrough." alt="" coords="193,56,312,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="355,59,313,65,312,59,354,54"/>
+<area shape="rect" id="Node000004" href="$class_level_one.html#a8ca877257c567a5f2441c34476cccb01" title="Starts the level scene, preparing necessary resources." alt="" coords="5,56,135,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="177,72,135,72,135,67,177,67"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Enemy::Enemy" name="Enemy::Enemy">
+<area shape="rect" id="Node000001" title="Constructor that initializes an enemy with specific properties." alt="" coords="5,43,117,69"/>
+<area shape="rect" id="Node000002" href="$class_random_generator.html#a1179b82fa7faaf190411c7fb17cbfc38" title="Generates a random floating&#45;point number in the specified range." alt="" coords="165,5,370,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,45,149,41,150,46,117,51"/>
+<area shape="rect" id="Node000003" href="$class_sound_manager.html#a9dd04ab6a7824e09262077c929b43ed4" title="Loads a sound file into memory and stores it under a name." alt="" coords="177,72,358,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,61,162,68,161,73,117,67"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="LevelOne" name="LevelOne">
+<area shape="rect" id="Node000001" title="Represents the first level of the game, including background, spaceship, enemies, and game state." alt="" coords="212,263,288,289"/>
+<area shape="rect" id="Node000002" href="$class_i_game_scene.html" title="Interface for all game scenes." alt="" coords="5,172,103,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,203,168,236,222,260,220,265,166,241,93,208"/>
+<area shape="rect" id="Node000003" href="$class_scene_manager.html" title="Manages game scenes, allowing for seamless transitions between them." alt="" coords="126,172,235,199"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,214,175,226,179,237,194,252,212,262,210,267,190,256,175,240,170,227,170,214"/>
+<area shape="rect" id="Node000004" href="$class_spaceship.html" title="Represents the player&#39;s spaceship in the game, managing movement, shooting, and state updates." alt="" coords="272,172,354,199"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="307,214,293,240,270,264,266,260,289,237,302,212"/>
+<area shape="rect" id="Node000005" href="$class_vector2.html" title=" " alt="" coords="256,81,370,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="315,124,315,171,310,171,310,124"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="246,5,379,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="315,47,315,81,310,81,310,47"/>
+<area shape="rect" id="Node000007" href="$class_random_generator.html" title="Provides random number generation utilities for integers and floats." alt="" coords="378,172,506,199"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="424,212,390,241,339,262,289,273,288,268,337,257,387,236,421,208"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="Enemy::Update" name="Enemy::Update">
+<area shape="rect" id="Node000001" title="Updates the enemy&#39;s state." alt="" coords="5,165,118,192"/>
+<area shape="rect" id="Node000002" href="$class_enemy.html#ad01d14d9036a13fa8053479c01833028" title="Handles the enemy&#39;s movement behavior." alt="" coords="215,56,334,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,163,112,128,137,108,165,92,199,79,201,84,167,97,140,113,115,132,77,167"/>
+<area shape="rect" id="Node000005" href="$class_enemy.html#aa715eadaf6ac2035640661a2c145cd45" title="Processes the enemy&#39;s shooting behavior." alt="" coords="190,107,359,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="102,162,165,143,195,135,196,140,166,148,104,167"/>
+<area shape="rect" id="Node000008" href="$namespace_gameplay_utility.html#a3558284331e73b20446925ae3c85e455" title="Removes inactive projectiles from the game." alt="" coords="166,157,383,200"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="118,176,150,176,150,181,118,181"/>
+<area shape="rect" id="Node000009" href="$class_enemy.html#a5e89e8c0682754b01150023cb458b7d2" title="Reverses the movement direction when the enemy reaches a movement limit." alt="" coords="184,224,364,251"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="104,190,166,209,196,217,195,222,165,215,102,195"/>
+<area shape="rect" id="Node000010" href="$class_enemy.html#ab4090bc9625ecb234b504ab1ba18a760" title="Updates the enemy&#39;s projectiles, checking for collisions and updating their positions." alt="" coords="188,275,361,301"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="77,190,115,226,140,244,167,260,182,267,180,272,164,265,137,249,112,230,74,194"/>
+<area shape="rect" id="Node000003" href="$class_enemy.html#af4ff5144325866b3766530a3363dd549" title="Gets the horizontal movement for the enemy based on a sine wave pattern." alt="" coords="436,5,647,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="334,55,452,33,453,38,335,61"/>
+<area shape="rect" id="Node000004" href="$class_enemy.html#a75d09348e674b364625e010f2f0d945d" title="Gets the vertical movement for the enemy based on a speed and direction." alt="" coords="444,56,639,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="334,67,428,67,428,72,334,72"/>
+<area shape="rect" id="Node000006" href="$class_random_generator.html#a216b26ebaa2ccd17a7d27f1d3a855136" title="Generates a random integer in the specified range." alt="" coords="431,107,651,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="360,117,415,117,415,123,360,123"/>
+<area shape="rect" id="Node000007" href="$namespace_gameplay_utility.html#ac927e2960c3edb516e0c839afe16428c" title="Spawns a new projectile with the given properties." alt="" coords="433,157,649,184"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="349,131,453,151,452,157,348,137"/>
+</map>

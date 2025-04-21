@@ -1,0 +1,7 @@
+<map id="Spaceship::Draw" name="Spaceship::Draw">
+<area shape="rect" id="Node000001" title="Draws the spaceship and its projectiles to the screen." alt="" coords="5,31,127,57"/>
+<area shape="rect" id="Node000002" href="$class_spaceship.html#a9dfaca2d72e43533bf6ad31a1dcd04fd" title="Draws all active projectiles to the window." alt="" coords="178,5,354,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,34,162,29,163,34,127,39"/>
+<area shape="rect" id="Node000003" href="$class_spaceship.html#a444e1d452b234aa6d3e52d636d75547e" title="Draws the spaceship to the window." alt="" coords="175,56,357,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,49,159,53,159,58,127,54"/>
+</map>

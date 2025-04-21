@@ -1,0 +1,5 @@
+<map id="Vector2::Scale" name="Vector2::Scale">
+<area shape="rect" id="Node000001" title="Scale the vector by a given factor." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="Node000002" href="$class_vector2.html#a85c9567670f1485d95d58ae4f77be6ae" title="Constructor to create a Vector2 instance." alt="" coords="160,5,277,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,16,144,16,144,21,112,21"/>
+</map>

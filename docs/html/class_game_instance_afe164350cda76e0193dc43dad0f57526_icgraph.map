@@ -1,0 +1,5 @@
+<map id="GameInstance::InitResources" name="GameInstance::InitResources">
+<area shape="rect" id="Node000001" title="Initializes game resources." alt="" coords="253,5,448,32"/>
+<area shape="rect" id="Node000002" href="$class_game_instance.html#a4960d24b6dbc4d273882cb55db1e022c" title="Constructs the game instance." alt="" coords="5,5,205,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,21,205,21,205,16,237,16"/>
+</map>

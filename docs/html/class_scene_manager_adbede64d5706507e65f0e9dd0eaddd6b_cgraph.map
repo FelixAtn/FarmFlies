@@ -1,0 +1,7 @@
+<map id="SceneManager::Update" name="SceneManager::Update">
+<area shape="rect" id="Node000001" title="Updates the currently active scene." alt="" coords="5,31,164,57"/>
+<area shape="rect" id="Node000002" href="$class_cursor.html#a63a9f41bc993fa26d7b897bed958109d" title="Retrieve the singleton instance of the Cursor class." alt="" coords="222,5,312,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,30,206,24,207,30,164,36"/>
+<area shape="rect" id="Node000003" href="$class_cursor.html#a0d5032e03907b8374630fdf3494558d7" title="Update the cursor&#39;s internal state." alt="" coords="212,56,322,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,52,197,57,196,62,164,58"/>
+</map>

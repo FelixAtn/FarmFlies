@@ -1,0 +1,22 @@
+<map id="SceneManager::Switch" name="SceneManager::Switch">
+<area shape="rect" id="Node000001" title="Switches the currently active scene." alt="" coords="506,157,662,184"/>
+<area shape="rect" id="Node000002" href="$class_level_one.html#aa2a81cea0271d042063be2aa367f6c02" title="Checks the player&#39;s lives and updates the game state if necessary." alt="" coords="279,107,432,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="505,156,418,137,419,131,506,151"/>
+<area shape="rect" id="Node000004" href="$class_menu_state.html#aecd8763b82b9bfb5a64a5d7572e9019a" title="Handles user input in the menu scene." alt="" coords="274,56,436,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="551,150,507,123,457,97,424,86,425,81,459,92,510,118,553,146"/>
+<area shape="rect" id="Node000005" href="$class_game_instance.html#a06fe6dbd18ae41ac7f5f8f79b4f8b99d" title="Initializes game states." alt="" coords="253,5,458,32"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="562,147,518,95,489,69,457,46,431,35,433,30,459,42,492,64,522,91,566,143"/>
+<area shape="rect" id="Node000007" href="$class_level_one.html#a53f3108775fb3266debed32e9a2284c6" title="Handles the game over state." alt="" coords="273,157,438,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="491,173,438,173,438,168,491,168"/>
+<area shape="rect" id="Node000008" href="$class_credits.html#aaf8dd49979cd73f003c4ae4e5eed472e" title="Updates the scene logic." alt="" coords="299,208,412,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="506,191,413,211,412,206,505,185"/>
+<area shape="rect" id="Node000009" href="$class_game_over.html#a574908eb0d8bd368a45c986b2e853e14" title="Updates the game over scene every frame." alt="" coords="288,259,422,285"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="553,195,510,223,459,249,424,261,422,256,457,244,507,219,551,191"/>
+<area shape="rect" id="Node000010" href="$class_level_one.html#a49050c25247260db25be9fdee638ab41" title="Updates the level&#45;related UI text, such as level name and lives count." alt="" coords="264,309,446,336"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="566,198,522,250,492,277,459,300,433,311,431,306,457,295,489,273,518,246,562,195"/>
+<area shape="rect" id="Node000003" href="$class_level_one.html#ac5f4953425e9d335e735f1cde198a1fb" title="Updates the level scene every frame." alt="" coords="42,208,168,235"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="275,140,254,148,185,179,130,210,128,205,183,174,252,143,274,135"/>
+<area shape="rect" id="Node000006" href="$class_game_instance.html#a4960d24b6dbc4d273882cb55db1e022c" title="Constructs the game instance." alt="" coords="5,5,205,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="237,21,205,21,205,16,237,16"/>
+<area shape="poly" id="edge10_Node000010_Node000003" title=" " alt="" coords="274,307,252,300,183,268,128,237,130,233,185,264,254,295,275,302"/>
+</map>

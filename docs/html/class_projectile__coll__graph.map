@@ -1,0 +1,7 @@
+<map id="Projectile" name="Projectile">
+<area shape="rect" id="Node000001" title="Represents a projectile in the game, including its movement, appearance, and active status." alt="" coords="34,204,110,231"/>
+<area shape="rect" id="Node000002" href="$class_vector2.html" title=" " alt="" coords="15,81,129,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,124,75,203,69,203,69,124"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,139,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,47,75,81,69,81,69,47"/>
+</map>

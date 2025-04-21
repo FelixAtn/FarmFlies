@@ -1,0 +1,7 @@
+<map id="CoreHelper::LoadTextureAndSprite" name="CoreHelper::LoadTextureAndSprite">
+<area shape="rect" id="Node000001" title="Loads a texture and assigns it to a sprite." alt="" coords="5,5,195,48"/>
+<area shape="rect" id="Node000002" href="$class_log.html#a0602808efc4b6a11f68f0c9ee2df135e" title="Prints a plain text message with a given log level." alt="" coords="243,13,320,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,24,227,24,227,29,195,29"/>
+<area shape="rect" id="Node000003" href="$class_log.html#a758948f266c4aa6fabbf9b172a018d43" title="Returns the string representation of a log level." alt="" coords="368,13,491,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="321,24,352,24,352,29,321,29"/>
+</map>

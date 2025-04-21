@@ -54,7 +54,7 @@ void GameOver::Update(float deltaTime)
 {
 	if (m_Timer.HasTimePassed(deltaTime))
 	{
-		m_StateManager.Switch(SceneID::MAIN_MENU);
+		m_StateManager.Switch(SceneID::CREDITS);
 	}
 
 

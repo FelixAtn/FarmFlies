@@ -1,0 +1,7 @@
+<map id="Vector2::Normalize" name="Vector2::Normalize">
+<area shape="rect" id="Node000001" title="Normalize the vector to a length of 1." alt="" coords="5,31,138,57"/>
+<area shape="rect" id="Node000002" href="$class_vector2.html#a584f1e17ba6675539b7a22295e4859fe" title="Get the length of the vector." alt="" coords="188,5,300,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,32,172,27,173,32,139,37"/>
+<area shape="rect" id="Node000003" href="$class_vector2.html#a85c9567670f1485d95d58ae4f77be6ae" title="Constructor to create a Vector2 instance." alt="" coords="186,56,303,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,51,171,56,170,61,138,56"/>
+</map>

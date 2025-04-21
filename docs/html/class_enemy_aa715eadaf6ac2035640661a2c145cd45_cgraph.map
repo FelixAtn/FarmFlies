@@ -1,0 +1,7 @@
+<map id="Enemy::ProcessShooting" name="Enemy::ProcessShooting">
+<area shape="rect" id="Node000001" title="Processes the enemy&#39;s shooting behavior." alt="" coords="5,31,175,57"/>
+<area shape="rect" id="Node000002" href="$class_random_generator.html#a216b26ebaa2ccd17a7d27f1d3a855136" title="Generates a random integer in the specified range." alt="" coords="223,5,443,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,32,207,29,207,34,176,38"/>
+<area shape="rect" id="Node000003" href="$namespace_gameplay_utility.html#ac927e2960c3edb516e0c839afe16428c" title="Spawns a new projectile with the given properties." alt="" coords="225,56,441,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,50,210,54,209,59,175,56"/>
+</map>

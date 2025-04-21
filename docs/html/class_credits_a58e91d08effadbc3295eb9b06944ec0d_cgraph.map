@@ -1,0 +1,9 @@
+<map id="Credits::Credits" name="Credits::Credits">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,119,40"/>
+<area shape="rect" id="Node000002" href="$namespace_core_helper.html#a0609ff46cfcbe7d88492b38418267da5" title="Loads a texture and assigns it to a sprite." alt="" coords="167,5,356,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,24,151,24,151,29,119,29"/>
+<area shape="rect" id="Node000003" href="$class_log.html#a0602808efc4b6a11f68f0c9ee2df135e" title="Prints a plain text message with a given log level." alt="" coords="404,13,481,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="356,24,388,24,388,29,356,29"/>
+<area shape="rect" id="Node000004" href="$class_log.html#a758948f266c4aa6fabbf9b172a018d43" title="Returns the string representation of a log level." alt="" coords="529,13,653,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="482,24,514,24,514,29,482,29"/>
+</map>

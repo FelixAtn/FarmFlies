@@ -1,0 +1,13 @@
+<map id="GameOver::Update" name="GameOver::Update">
+<area shape="rect" id="Node000001" title="Updates the game over scene every frame." alt="" coords="5,56,140,83"/>
+<area shape="rect" id="Node000002" href="$class_timer.html#af94060ecee3c8416a17ee2c29d42582b" title="Gets the time that has passed since the timer started or was last restarted." alt="" coords="189,5,346,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,53,198,34,199,39,128,58"/>
+<area shape="rect" id="Node000003" href="$class_timer.html#a224e06d62c912273d735f2312cbb6317" title="Checks if the specified interval has passed based on the delta time." alt="" coords="188,56,347,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,67,172,67,172,72,140,72"/>
+<area shape="rect" id="Node000004" href="$class_scene_manager.html#a923a348879950dfdeba731f5fbcaf731" title="Switches the currently active scene." alt="" coords="189,107,346,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,81,199,100,198,105,126,86"/>
+<area shape="rect" id="Node000005" href="$class_log.html#a0602808efc4b6a11f68f0c9ee2df135e" title="Prints a plain text message with a given log level." alt="" coords="395,107,472,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="346,117,379,117,379,123,346,123"/>
+<area shape="rect" id="Node000006" href="$class_log.html#a758948f266c4aa6fabbf9b172a018d43" title="Returns the string representation of a log level." alt="" coords="520,107,644,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="473,117,505,117,505,123,473,123"/>
+</map>

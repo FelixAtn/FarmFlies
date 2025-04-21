@@ -1,0 +1,7 @@
+<map id="GameInstance" name="GameInstance">
+<area shape="rect" id="Node000001" title="Manages the game loop, resource loading, and game states." alt="" coords="73,96,179,123"/>
+<area shape="rect" id="Node000002" href="$class_scene_manager.html" title="Manages game scenes, allowing for seamless transitions between them." alt="" coords="5,5,114,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,47,59,60,63,71,74,83,89,93,86,98,71,88,58,73,53,61,52,48"/>
+<area shape="rect" id="Node000003" href="$class_timer.html" title="Tracks elapsed time and allows periodic actions based on intervals." alt="" coords="166,5,220,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,47,166,74,143,97,139,94,161,70,178,45"/>
+</map>

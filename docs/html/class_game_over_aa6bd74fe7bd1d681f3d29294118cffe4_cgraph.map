@@ -1,0 +1,5 @@
+<map id="GameOver::OnInit" name="GameOver::OnInit">
+<area shape="rect" id="Node000001" title="Initializes the scene and its resources." alt="" coords="5,5,133,32"/>
+<area shape="rect" id="Node000002" href="$class_timer.html#a95c769396a8d8413892754543dd2497a" title="Sets the interval at which the timer triggers." alt="" coords="181,5,306,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,16,165,16,165,21,133,21"/>
+</map>

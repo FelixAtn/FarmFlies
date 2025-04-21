@@ -1,0 +1,10 @@
+<map id="include/MyLibrary/Scenes/InGame/LevelOne.h" name="include/MyLibrary/Scenes/InGame/LevelOne.h">
+<area shape="rect" id="Node000001" title="Contains the LevelOne class for handling the first level of the game." alt="" coords="68,5,239,48"/>
+<area shape="rect" id="Node000002" href="$_spaceship_8h.html" title="Contains the Spaceship class and its related methods." alt="" coords="5,96,147,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,50,101,86,97,83,132,47"/>
+<area shape="rect" id="Node000004" href="$_enemy_8h.html" title="Contains the Enemy class and its related methods." alt="" coords="170,96,291,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,47,210,83,206,86,171,50"/>
+<area shape="rect" id="Node000003" href="$_projectile_8h.html" title="Contains the Projectile class and its related methods." alt="" coords="110,171,196,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,121,131,158,127,162,88,125"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="219,125,180,162,176,158,215,121"/>
+</map>

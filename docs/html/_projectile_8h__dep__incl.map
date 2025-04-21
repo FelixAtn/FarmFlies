@@ -1,0 +1,29 @@
+<map id="include/MyLibrary/Entities/Projectile.h" name="include/MyLibrary/Entities/Projectile.h">
+<area shape="rect" id="Node000001" title="Contains the Projectile class and its related methods." alt="" coords="425,5,597,48"/>
+<area shape="rect" id="Node000002" href="$_gameplay_utility_8cpp.html" title=" " alt="" coords="201,187,381,229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="411,45,361,65,338,80,318,98,305,118,297,142,293,186,287,186,292,141,300,116,314,94,335,76,358,61,409,40"/>
+<area shape="rect" id="Node000003" href="$_enemy_8cpp.html" title=" " alt="" coords="5,187,177,229"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="417,55,355,75,292,98,200,144,125,188,122,184,197,140,290,94,353,70,415,50"/>
+<area shape="rect" id="Node000004" href="$_enemy_8h.html" title="Contains the Enemy class and its related methods." alt="" coords="328,96,499,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="479,61,438,97,435,93,475,57"/>
+<area shape="rect" id="Node000005" href="$_projectile_8cpp.html" title=" " alt="" coords="601,187,773,229"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="613,36,640,45,666,57,690,73,709,95,718,118,717,143,711,167,701,187,697,185,706,165,712,142,713,119,705,97,686,77,663,62,638,50,611,41"/>
+<area shape="rect" id="Node000006" href="$_spaceship_8cpp.html" title=" " alt="" coords="797,187,969,229"/>
+<area shape="poly" id="edge12_Node000001_Node000006" title=" " alt="" coords="612,49,672,69,731,94,804,139,861,184,858,188,801,143,728,98,670,74,611,54"/>
+<area shape="rect" id="Node000010" href="$_spaceship_8h.html" title="Contains the Spaceship class and its related methods." alt="" coords="524,96,695,139"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="547,57,588,93,585,97,544,61"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="375,150,321,188,318,184,371,146"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="324,146,167,189,166,183,323,141"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="493,141,624,183,622,189,491,146"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="515,136,785,184,797,186,796,192,784,189,514,142"/>
+<area shape="rect" id="Node000007" href="$_level_one_8h.html" title="Contains the LevelOne class for handling the first level of the game." alt="" coords="405,187,577,229"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="444,149,475,185,471,188,440,152"/>
+<area shape="rect" id="Node000008" href="$_game_instance_8cpp.html" title=" " alt="" coords="258,285,495,312"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="454,241,394,287,391,283,451,237"/>
+<area shape="rect" id="Node000009" href="$_level_one_8cpp.html" title=" " alt="" coords="519,277,690,320"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="531,237,579,275,576,279,527,241"/>
+<area shape="poly" id="edge14_Node000010_Node000002" title=" " alt="" coords="521,146,367,189,365,183,520,141"/>
+<area shape="poly" id="edge15_Node000010_Node000005" title=" " alt="" coords="640,149,671,185,667,188,636,152"/>
+<area shape="poly" id="edge16_Node000010_Node000006" title=" " alt="" coords="689,141,820,183,818,189,687,146"/>
+<area shape="poly" id="edge17_Node000010_Node000007" title=" " alt="" coords="571,150,520,188,517,184,568,146"/>
+</map>

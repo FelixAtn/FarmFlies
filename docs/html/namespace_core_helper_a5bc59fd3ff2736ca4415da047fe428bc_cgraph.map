@@ -1,0 +1,7 @@
+<map id="CoreHelper::LoadMusic" name="CoreHelper::LoadMusic">
+<area shape="rect" id="Node000001" title="Loads background music from a file." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="Node000002" href="$class_log.html#a0602808efc4b6a11f68f0c9ee2df135e" title="Prints a plain text message with a given log level." alt="" coords="212,5,289,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,16,196,16,196,21,164,21"/>
+<area shape="rect" id="Node000003" href="$class_log.html#a758948f266c4aa6fabbf9b172a018d43" title="Returns the string representation of a log level." alt="" coords="337,5,460,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="290,16,321,16,321,21,290,21"/>
+</map>

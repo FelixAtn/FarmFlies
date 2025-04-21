@@ -1,0 +1,16 @@
+<map id="LevelOne::Reset" name="LevelOne::Reset">
+<area shape="rect" id="Node000001" title="Resets the level for a new playthrough." alt="" coords="5,61,125,88"/>
+<area shape="rect" id="Node000002" href="$namespace_gameplay_utility.html#a24348bc2bb771397d9716c320eca7b25" title="Spawns a set number of enemies in a grid pattern." alt="" coords="392,5,606,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,58,172,47,276,33,376,23,377,29,277,38,173,52,119,63"/>
+<area shape="rect" id="Node000005" href="$class_level_one.html#a07f13cbce0fed886e7c800a52e32158c" title="Initializes the background for the level." alt="" coords="173,61,344,88"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="125,72,157,72,157,77,125,77"/>
+<area shape="rect" id="Node000007" href="$class_spaceship.html#a6b2ffa8e8b3c93c9132958d47436c6b8" title="Resets the spaceship&#39;s state to &quot;alive.&quot;." alt="" coords="196,112,321,139"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="120,86,191,105,190,110,118,91"/>
+<area shape="rect" id="Node000003" href="$class_log.html#a0602808efc4b6a11f68f0c9ee2df135e" title="Prints a plain text message with a given log level." alt="" coords="654,35,732,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="592,30,639,37,638,42,591,35"/>
+<area shape="rect" id="Node000004" href="$class_log.html#a758948f266c4aa6fabbf9b172a018d43" title="Returns the string representation of a log level." alt="" coords="780,35,903,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="732,45,764,45,764,51,732,51"/>
+<area shape="rect" id="Node000006" href="$namespace_core_helper.html#a0609ff46cfcbe7d88492b38418267da5" title="Loads a texture and assigns it to a sprite." alt="" coords="404,56,594,99"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="345,73,389,73,389,79,345,78"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="594,60,639,53,639,59,595,66"/>
+</map>

@@ -2,6 +2,7 @@
 #include "Core/Managers/InputManager.h"
 #include "LevelOne.h"
 #include "Core/Utility/GameplayUtility.h"
+#include "Core/Utility/Helper.h"
 #include "Core/Utility/strings.h"
 
 // ********************* LEVEL ONE CONSTANTS ********************
@@ -21,8 +22,8 @@ LevelOne::LevelOne(SceneManager& sceneManager, sf::RenderWindow& window)
 {
 	InitBackground();
 	InitLevelText();
-	GameplayUtility::LoadMusic(m_BackgroundMusic, GAME_MUSIC);
-	GameplayUtility::LoadMusic(m_GameOver, GAME_OVER_MUSIC);
+	CoreHelper::LoadMusic(m_BackgroundMusic, GAME_MUSIC);
+	CoreHelper::LoadMusic(m_GameOver, GAME_OVER_MUSIC);
 }
 
 void LevelOne::OnStart()
@@ -73,8 +74,8 @@ void LevelOne::HandleInput(float deltaTime)
 
 void LevelOne::InitBackground()
 {
-	GameplayUtility::LoadTextureAndSprite(m_BackgroundTexture, m_BackgroundSprite, GAME_BACKGROUND);
-	GameplayUtility::LoadTextureAndSprite(m_BackgroundTexture, m_BackgroundSpriteTwo, GAME_BACKGROUND);
+	CoreHelper::LoadTextureAndSprite(m_BackgroundTexture, m_BackgroundSprite, GAME_BACKGROUND);
+	CoreHelper::LoadTextureAndSprite(m_BackgroundTexture, m_BackgroundSpriteTwo, GAME_BACKGROUND);
 	const float height = static_cast<float>(m_BackgroundTexture.getSize().y);
 	m_BackgroundSprite.setPosition(0.f, 0.f);
 	m_BackgroundSpriteTwo.setPosition(0.f, +height); // Make sure this is ABOVE the first

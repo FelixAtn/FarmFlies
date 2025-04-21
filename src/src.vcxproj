@@ -20,6 +20,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Core\Utility\GameplayUtility.cpp" />
+    <ClCompile Include="Core\Utility\Helper.cpp" />
+    <ClCompile Include="Scenes\Intro\Intro.cpp" />
+    <ClCompile Include="Scenes\Credits\Credits.cpp" />
     <ClCompile Include="Scenes\GameOver\GameOver.cpp" />
     <ClCompile Include="Entities\Enemy.cpp" />
     <ClCompile Include="Entities\Cursor.cpp" />
@@ -45,8 +48,11 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Core\Utility\Helper.h" />
     <ClInclude Include="Core\Utility\Strings.h" />
     <ClInclude Include="Core\Utility\GameplayUtility.h" />
+    <ClInclude Include="Scenes\Intro\Intro.h" />
+    <ClInclude Include="Scenes\Credits\Credits.h" />
     <ClInclude Include="Scenes\GameOver\GameOver.h" />
     <ClInclude Include="Entities\Enemy.h" />
     <ClInclude Include="Entities\Cursor.h" />
@@ -180,7 +186,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>$(SolutionDir)src;$(SolutionDir)dependencies\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)\resources;$(SolutionDir)src;$(SolutionDir)dependencies\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PrecompiledHeader>Use</PrecompiledHeader>
       <LanguageStandard>stdcpplatest</LanguageStandard>
       <LanguageStandard_C>stdclatest</LanguageStandard_C>
@@ -200,7 +206,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>$(SolutionDir)src;$(SolutionDir)dependencies\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)\resources;$(SolutionDir)src;$(SolutionDir)dependencies\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
       <PrecompiledHeader>Use</PrecompiledHeader>
       <LanguageStandard>stdcpplatest</LanguageStandard>

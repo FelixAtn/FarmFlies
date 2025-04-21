@@ -176,30 +176,3 @@ void GameplayUtility::TryShootWithRandomCooldown(std::vector<std::unique_ptr<Pro
 	}
 }
 
-// Loads a texture and associates it with a sprite
-void GameplayUtility::LoadTextureAndSprite(sf::Texture& texture, sf::Sprite& sprite, const std::string& fileName)
-{
-
-	// Attempt to load the texture from the specified file
-	if (!texture.loadFromFile(fileName))
-	{
-		// Log an error if the texture loading fails
-		Log::Print("Texture failed to load! ", LogLevel::ERROR_);
-		return;
-	}
-
-	// Set the sprite's texture once it has successfully loaded
-	sprite.setTexture(texture);
-}
-
-// Loads background music and handles potential errors
-void GameplayUtility::LoadMusic(sf::Music& music, const std::string& fileName)
-{
-	// Attempt to load and play the music from the specified file
-	if (!music.openFromFile(fileName))  // Replace with your music file
-	{
-		// Log an error if the music loading fails
-		Log::Print("Failed to load background music.", LogLevel::ERROR_);
-		return;
-	}
-}

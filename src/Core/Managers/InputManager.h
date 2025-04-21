@@ -5,7 +5,9 @@ constexpr uint32_t MAX_KEYS = 650;
 enum class KeyBind
 {
 	Pause,
-	Shoot
+	Shoot,
+	Right_click,
+
 };
 
 class InputManager

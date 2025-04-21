@@ -120,8 +120,6 @@ void MenuState::InitButtons()
 	m_ButtonActions = { ButtonAction::START, ButtonAction::CREDITS, ButtonAction::EXIT };
 }
 
-
-
 void MenuState::UpdateButtons()
 {	
 	// Update hover state for all buttons

@@ -1,0 +1,5 @@
+<map id="Spaceship::UpdateProjectiles" name="Spaceship::UpdateProjectiles">
+<area shape="rect" id="Node000001" title="Updates the state of all projectiles fired by the spaceship." alt="" coords="5,13,199,40"/>
+<area shape="rect" id="Node000002" href="$namespace_gameplay_utility.html#a3558284331e73b20446925ae3c85e455" title="Removes inactive projectiles from the game." alt="" coords="247,5,464,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,24,231,24,231,29,199,29"/>
+</map>

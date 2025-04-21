@@ -1,0 +1,5 @@
+<map id="Log::Print" name="Log::Print">
+<area shape="rect" id="Node000001" title="Prints a plain text message with a given log level." alt="" coords="5,5,83,32"/>
+<area shape="rect" id="Node000002" href="$class_log.html#a758948f266c4aa6fabbf9b172a018d43" title="Returns the string representation of a log level." alt="" coords="131,5,254,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,16,115,16,115,21,83,21"/>
+</map>

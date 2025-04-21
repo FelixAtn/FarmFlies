@@ -1,0 +1,5 @@
+<map id="Enemy::UpdateProjectiles" name="Enemy::UpdateProjectiles">
+<area shape="rect" id="Node000001" title="Updates the enemy&#39;s projectiles, checking for collisions and updating their positions." alt="" coords="166,5,339,32"/>
+<area shape="rect" id="Node000002" href="$class_enemy.html#ac892bd8564cb726b3538925a32f9f727" title="Updates the enemy&#39;s state." alt="" coords="5,5,118,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,21,118,21,118,16,150,16"/>
+</map>

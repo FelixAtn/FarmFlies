@@ -1,0 +1,10 @@
+<map id="include/MyLibrary/Scenes/InGame" name="include/MyLibrary/Scenes/InGame">
+<area shape="rect" id="node1" href="dir_dd6f423dccdcc3bddc19644dbff5e495.html" title="InGame" alt="" coords="38,53,105,80"/>
+<area shape="rect" id="node2" href="dir_460c78a6f36b0d162ecc2bbd9fc05f61.html" title="Core" alt="" coords="5,128,55,155"/>
+<area shape="poly" id="edge1" href="dir_000005_000000.html" alt="" coords="66,82,47,116,42,113,62,79"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000005_000000.html" title="4" alt="" coords="50,108,57,124"/>
+<area shape="rect" id="node3" href="dir_4d433d14fbde837bf55744f8e0afbd13.html" title="Entities" alt="" coords="79,128,144,155"/>
+<area shape="poly" id="edge2" href="dir_000005_000002.html" alt="" coords="81,79,99,113,95,116,76,82"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000005_000002.html" title="2" alt="" coords="100,100,107,116"/>
+<area shape="rect" id="clust1" href="dir_a2e9d5ea58887e37ae1f6e1fcef6f226.html" title="Scenes" alt="" coords="27,16,115,91"/>
+</map>

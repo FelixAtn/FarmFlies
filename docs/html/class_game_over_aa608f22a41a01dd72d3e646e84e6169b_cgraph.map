@@ -1,0 +1,11 @@
+<map id="GameOver::HandleInput" name="GameOver::HandleInput">
+<area shape="rect" id="Node000001" title="Handles user input during the game over scene." alt="" coords="5,31,168,57"/>
+<area shape="rect" id="Node000002" href="$class_input_manager.html#a681afd1f90d84a1e29883592891c95dd" title="Retrieves the singleton instance of the InputManager." alt="" coords="226,5,356,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,31,210,26,211,31,168,37"/>
+<area shape="rect" id="Node000003" href="$class_input_manager.html#aef542a6bfc8dd4b0a09091cfe1727fff" title="Updates the input state each frame." alt="" coords="216,56,366,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,51,201,55,200,61,168,57"/>
+<area shape="rect" id="Node000004" href="$class_input_manager.html#aad8d6154eb7442d0f48db609a9a7d81b" title="Polls SFML keyboard state and sets flags accordingly." alt="" coords="414,31,619,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="366,58,398,55,399,60,367,64"/>
+<area shape="rect" id="Node000005" href="$class_input_manager.html#aa85d5d75cfd3f4b9595c99c388a1d8aa" title="Polls SFML mouse button state and sets flags accordingly." alt="" coords="422,81,611,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="367,75,407,80,406,85,366,80"/>
+</map>

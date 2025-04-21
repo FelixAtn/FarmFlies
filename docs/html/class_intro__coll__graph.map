@@ -1,0 +1,7 @@
+<map id="Intro" name="Intro">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,96,140,123"/>
+<area shape="rect" id="Node000002" href="$class_i_game_scene.html" title="Interface for all game scenes." alt="" coords="5,5,103,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,43,110,94,106,97,69,46"/>
+<area shape="rect" id="Node000003" href="$class_scene_manager.html" title="Manages game scenes, allowing for seamless transitions between them." alt="" coords="126,5,235,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,46,128,97,124,94,161,43"/>
+</map>

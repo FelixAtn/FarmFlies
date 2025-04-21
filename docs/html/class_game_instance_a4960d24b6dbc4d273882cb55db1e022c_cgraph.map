@@ -1,0 +1,18 @@
+<map id="GameInstance::GameInstance" name="GameInstance::GameInstance">
+<area shape="rect" id="Node000001" title="Constructs the game instance." alt="" coords="5,81,205,108"/>
+<area shape="rect" id="Node000002" href="$class_game_instance.html#a06fe6dbd18ae41ac7f5f8f79b4f8b99d" title="Initializes game states." alt="" coords="253,31,458,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,78,270,58,271,64,175,83"/>
+<area shape="rect" id="Node000007" href="$class_game_instance.html#afe164350cda76e0193dc43dad0f57526" title="Initializes game resources." alt="" coords="258,81,453,108"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="205,92,242,92,242,97,205,97"/>
+<area shape="rect" id="Node000008" href="$class_game_instance.html#a9c9f9ff5d5224dc8558ad33288d7a1b3" title="Initializes the game window." alt="" coords="266,132,445,159"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="175,106,271,126,270,131,174,111"/>
+<area shape="rect" id="Node000003" href="$class_scene_manager.html#abfffecc4ffd12a2592249b922fe91658" title="Adds a new scene to the manager." alt="" coords="514,5,654,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="458,30,499,25,499,31,459,35"/>
+<area shape="rect" id="Node000006" href="$class_scene_manager.html#a923a348879950dfdeba731f5fbcaf731" title="Switches the currently active scene." alt="" coords="506,56,662,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="459,53,491,56,490,62,458,58"/>
+<area shape="rect" id="Node000004" href="$class_log.html#a0602808efc4b6a11f68f0c9ee2df135e" title="Prints a plain text message with a given log level." alt="" coords="710,31,788,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="655,27,695,33,694,38,654,32"/>
+<area shape="rect" id="Node000005" href="$class_log.html#a758948f266c4aa6fabbf9b172a018d43" title="Returns the string representation of a log level." alt="" coords="836,31,959,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="788,41,820,41,820,47,788,47"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="662,55,694,50,695,55,663,60"/>
+</map>

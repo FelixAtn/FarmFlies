@@ -1,0 +1,7 @@
+<map id="SceneManager::Add" name="SceneManager::Add">
+<area shape="rect" id="Node000001" title="Adds a new scene to the manager." alt="" coords="506,5,645,32"/>
+<area shape="rect" id="Node000002" href="$class_game_instance.html#a06fe6dbd18ae41ac7f5f8f79b4f8b99d" title="Initializes game states." alt="" coords="253,5,458,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="490,21,458,21,458,16,490,16"/>
+<area shape="rect" id="Node000003" href="$class_game_instance.html#a4960d24b6dbc4d273882cb55db1e022c" title="Constructs the game instance." alt="" coords="5,5,205,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="237,21,205,21,205,16,237,16"/>
+</map>

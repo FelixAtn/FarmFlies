@@ -1,0 +1,11 @@
+<map id="Credits::Update" name="Credits::Update">
+<area shape="rect" id="Node000001" title="Updates the scene logic." alt="" coords="5,31,119,57"/>
+<area shape="rect" id="Node000002" href="$class_scene_manager.html#a923a348879950dfdeba731f5fbcaf731" title="Switches the currently active scene." alt="" coords="167,5,323,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,34,151,29,152,34,119,39"/>
+<area shape="rect" id="Node000005" href="$class_credits.html#a76cdbde40120c3106dc6658bf4d7553b" title=" " alt="" coords="169,56,321,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="119,49,154,54,153,59,118,54"/>
+<area shape="rect" id="Node000003" href="$class_log.html#a0602808efc4b6a11f68f0c9ee2df135e" title="Prints a plain text message with a given log level." alt="" coords="371,5,448,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="323,16,355,16,355,21,323,21"/>
+<area shape="rect" id="Node000004" href="$class_log.html#a758948f266c4aa6fabbf9b172a018d43" title="Returns the string representation of a log level." alt="" coords="496,5,620,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="449,16,481,16,481,21,449,21"/>
+</map>

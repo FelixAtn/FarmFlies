@@ -1,0 +1,5 @@
+<map id="GameInstance::Draw" name="GameInstance::Draw">
+<area shape="rect" id="Node000001" title="Draws the game objects to the window." alt="" coords="5,5,151,32"/>
+<area shape="rect" id="Node000002" href="$class_scene_manager.html#a1991078e3f864e043c82d480959fc733" title="Draws the currently active scene." alt="" coords="199,5,346,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,16,183,16,183,21,151,21"/>
+</map>

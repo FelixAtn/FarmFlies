@@ -1,0 +1,7 @@
+<map id="SceneManager::Add" name="SceneManager::Add">
+<area shape="rect" id="Node000001" title="Adds a new scene to the manager." alt="" coords="5,5,145,32"/>
+<area shape="rect" id="Node000002" href="$class_log.html#a0602808efc4b6a11f68f0c9ee2df135e" title="Prints a plain text message with a given log level." alt="" coords="193,5,270,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,16,177,16,177,21,145,21"/>
+<area shape="rect" id="Node000003" href="$class_log.html#a758948f266c4aa6fabbf9b172a018d43" title="Returns the string representation of a log level." alt="" coords="318,5,441,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="271,16,302,16,302,21,271,21"/>
+</map>

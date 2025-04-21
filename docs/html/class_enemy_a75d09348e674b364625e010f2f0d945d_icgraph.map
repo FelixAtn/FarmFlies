@@ -1,0 +1,7 @@
+<map id="Enemy::GetVerticalMovement" name="Enemy::GetVerticalMovement">
+<area shape="rect" id="Node000001" title="Gets the vertical movement for the enemy based on a speed and direction." alt="" coords="333,5,528,32"/>
+<area shape="rect" id="Node000002" href="$class_enemy.html#ad01d14d9036a13fa8053479c01833028" title="Handles the enemy&#39;s movement behavior." alt="" coords="166,5,285,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="318,21,286,21,286,16,318,16"/>
+<area shape="rect" id="Node000003" href="$class_enemy.html#ac892bd8564cb726b3538925a32f9f727" title="Updates the enemy&#39;s state." alt="" coords="5,5,118,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="150,21,118,21,118,16,150,16"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="GameplayUtility::SpawnProjectile" name="GameplayUtility::SpawnProjectile">
+<area shape="rect" id="Node000001" title="Spawns a new projectile with the given properties." alt="" coords="839,31,1055,57"/>
+<area shape="rect" id="Node000002" href="$class_spaceship.html#a005ba375099423cbfe0cbb402965cd35" title="Handles the spaceship firing a projectile." alt="" coords="595,5,791,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="823,34,791,31,792,26,823,29"/>
+<area shape="rect" id="Node000006" href="$class_enemy.html#aa715eadaf6ac2035640661a2c145cd45" title="Processes the enemy&#39;s shooting behavior." alt="" coords="608,56,778,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="823,59,778,64,778,58,823,54"/>
+<area shape="rect" id="Node000003" href="$class_spaceship.html#a5a1432606489e09a118be526dca09773" title="Updates the spaceship&#39;s state and actions." alt="" coords="415,5,547,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="580,21,548,21,548,16,580,16"/>
+<area shape="rect" id="Node000004" href="$class_level_one.html#a9bd86c94bf7851dd1c230a0f7917c204" title="Updates the spaceship position and actions." alt="" coords="180,5,367,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="399,21,368,21,368,16,399,16"/>
+<area shape="rect" id="Node000005" href="$class_level_one.html#ac5f4953425e9d335e735f1cde198a1fb" title="Updates the level scene every frame." alt="" coords="5,5,132,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="164,21,132,21,132,16,164,16"/>
+<area shape="rect" id="Node000007" href="$class_enemy.html#ac892bd8564cb726b3538925a32f9f727" title="Updates the enemy&#39;s state." alt="" coords="425,56,537,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="593,72,538,72,538,67,593,67"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="LevelOne::Reset" name="LevelOne::Reset">
+<area shape="rect" id="Node000001" title="Resets the level for a new playthrough." alt="" coords="183,5,302,32"/>
+<area shape="rect" id="Node000002" href="$class_level_one.html#a8ca877257c567a5f2441c34476cccb01" title="Starts the level scene, preparing necessary resources." alt="" coords="5,5,135,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,21,135,21,135,16,167,16"/>
+</map>

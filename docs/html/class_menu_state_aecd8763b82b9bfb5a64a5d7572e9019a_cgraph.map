@@ -1,0 +1,17 @@
+<map id="MenuState::HandleInput" name="MenuState::HandleInput">
+<area shape="rect" id="Node000001" title="Handles user input in the menu scene." alt="" coords="5,56,168,83"/>
+<area shape="rect" id="Node000002" href="$class_input_manager.html#a681afd1f90d84a1e29883592891c95dd" title="Retrieves the singleton instance of the InputManager." alt="" coords="229,5,358,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,53,221,34,222,39,145,58"/>
+<area shape="rect" id="Node000003" href="$class_scene_manager.html#a923a348879950dfdeba731f5fbcaf731" title="Switches the currently active scene." alt="" coords="216,56,372,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,67,200,67,200,72,168,72"/>
+<area shape="rect" id="Node000006" href="$class_input_manager.html#aef542a6bfc8dd4b0a09091cfe1727fff" title="Updates the input state each frame." alt="" coords="219,107,369,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="145,81,222,100,221,105,144,86"/>
+<area shape="rect" id="Node000004" href="$class_log.html#a0602808efc4b6a11f68f0c9ee2df135e" title="Prints a plain text message with a given log level." alt="" coords="484,56,561,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="372,67,469,67,469,72,372,72"/>
+<area shape="rect" id="Node000005" href="$class_log.html#a758948f266c4aa6fabbf9b172a018d43" title="Returns the string representation of a log level." alt="" coords="673,56,797,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="562,67,658,67,658,72,562,72"/>
+<area shape="rect" id="Node000007" href="$class_input_manager.html#aad8d6154eb7442d0f48db609a9a7d81b" title="Polls SFML keyboard state and sets flags accordingly." alt="" coords="420,107,625,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="369,117,404,117,404,123,369,123"/>
+<area shape="rect" id="Node000008" href="$class_input_manager.html#aa85d5d75cfd3f4b9595c99c388a1d8aa" title="Polls SFML mouse button state and sets flags accordingly." alt="" coords="428,157,617,184"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="358,131,445,151,444,156,357,137"/>
+</map>

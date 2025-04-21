@@ -1,0 +1,9 @@
+<map id="LevelOne::UpdateLevelText" name="LevelOne::UpdateLevelText">
+<area shape="rect" id="Node000001" title="Updates the level&#45;related UI text, such as level name and lives count." alt="" coords="5,5,188,32"/>
+<area shape="rect" id="Node000002" href="$class_scene_manager.html#a923a348879950dfdeba731f5fbcaf731" title="Switches the currently active scene." alt="" coords="236,5,392,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,16,220,16,220,21,188,21"/>
+<area shape="rect" id="Node000003" href="$class_log.html#a0602808efc4b6a11f68f0c9ee2df135e" title="Prints a plain text message with a given log level." alt="" coords="440,5,517,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="392,16,424,16,424,21,392,21"/>
+<area shape="rect" id="Node000004" href="$class_log.html#a758948f266c4aa6fabbf9b172a018d43" title="Returns the string representation of a log level." alt="" coords="565,5,689,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="518,16,550,16,550,21,518,21"/>
+</map>

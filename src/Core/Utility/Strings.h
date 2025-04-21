@@ -30,6 +30,7 @@ constexpr const char* SPACESHIP_HIT = "resources/sound/sfx/spaceship_hit.wav";
 // FONTS
 constexpr const char* FONT_A = "resources/fonts/Middle.ttf";
 constexpr const char* FONT_B = "resources/fonts/HelpMe.otf";
+constexpr const char* FONT_C = "resources/fonts/OpenSans-Light.ttf";
 
 // UI ELEMENTS
 constexpr const char* CURSOR = "resources/textures/ui/cursors/cursor.png";

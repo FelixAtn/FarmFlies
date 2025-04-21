@@ -30,6 +30,7 @@ void GameInstance::InitWindow()
 {
 	m_Window.create(sf::VideoMode(DEFAULT_RESOLUTION_WIDTH, DEFAULT_RESOLUTION_HEIGHT), GAME_NAME, sf::Style::Close);
 	m_Window.setMouseCursorVisible(false);
+	m_Window.setMouseCursorGrabbed(true);
 
 	sf::Image icon; 
 	if (!icon.loadFromFile(COW))

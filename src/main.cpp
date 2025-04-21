@@ -18,12 +18,6 @@ int main()
 	instance.Run();        ///< Start the game loop.
 	return 0;              ///< Return 0 to indicate successful execution.
 }
-int main()
-{
-	GameInstance instance;
-	instance.Run();
-	return 0;
-}
 #else
 /**
  * @brief Entry point for the game in release mode.

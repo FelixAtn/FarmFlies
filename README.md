@@ -14,7 +14,7 @@ Assisted with implementing features and gameplay elements using the established 
 *Alina Atanasescu*  
 Contributed smaller code additions and actively participated in playtesting and debugging.
 
-**Game Designer & Visual Artist**  
+**Project Leader, Game Designer & Visual Artist**  
 *Radu Buzatu*  
 Provided concept design, visual assets, and artistic direction.
 
